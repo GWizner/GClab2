@@ -1,0 +1,15 @@
+C:\Users\Gregory Wizner\source\repos\GClab2\bin\Debug\net6.0\GClab2.exe
+C:\Users\Gregory Wizner\source\repos\GClab2\bin\Debug\net6.0\GClab2.deps.json
+C:\Users\Gregory Wizner\source\repos\GClab2\bin\Debug\net6.0\GClab2.runtimeconfig.json
+C:\Users\Gregory Wizner\source\repos\GClab2\bin\Debug\net6.0\GClab2.dll
+C:\Users\Gregory Wizner\source\repos\GClab2\bin\Debug\net6.0\GClab2.pdb
+C:\Users\Gregory Wizner\source\repos\GClab2\obj\Debug\net6.0\GClab2.csproj.AssemblyReference.cache
+C:\Users\Gregory Wizner\source\repos\GClab2\obj\Debug\net6.0\GClab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gregory Wizner\source\repos\GClab2\obj\Debug\net6.0\GClab2.AssemblyInfoInputs.cache
+C:\Users\Gregory Wizner\source\repos\GClab2\obj\Debug\net6.0\GClab2.AssemblyInfo.cs
+C:\Users\Gregory Wizner\source\repos\GClab2\obj\Debug\net6.0\GClab2.csproj.CoreCompileInputs.cache
+C:\Users\Gregory Wizner\source\repos\GClab2\obj\Debug\net6.0\GClab2.dll
+C:\Users\Gregory Wizner\source\repos\GClab2\obj\Debug\net6.0\refint\GClab2.dll
+C:\Users\Gregory Wizner\source\repos\GClab2\obj\Debug\net6.0\GClab2.pdb
+C:\Users\Gregory Wizner\source\repos\GClab2\obj\Debug\net6.0\GClab2.genruntimeconfig.cache
+C:\Users\Gregory Wizner\source\repos\GClab2\obj\Debug\net6.0\ref\GClab2.dll
